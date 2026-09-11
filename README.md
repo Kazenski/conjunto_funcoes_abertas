@@ -1,8 +1,39 @@
-## PACOTE DE EXERCÍCIOS: 30 FUNÇÕES EM PYTHON PARA TREINAMENTO
-### Este arquivo contém 30 funções simples divididas em categorias:
-- Matemática e Lógica Básica
-- Manipulação de Listas e Laços de Repetição (For/While)
-- Gamificação e RPG (Para aplicar a lógica em mecânicas de jogos)
+## PACOTE DE EXERCÍCIOS: FUNÇÕES EM PYTHON PARA TREINAMENTO
+
+## Categorias de Funções
+
+### 1. Matemática e Lógica Básica
+Funções para praticar operadores lógicos e operações do dia a dia.
+- Validação de números (pares, ímpares, positivos, negativos, primos).
+- Cálculos rotineiros: médias, áreas, salários e conversões de temperatura.
+- Sistemas de classificação (IMC, Faixas Etárias, Regras de Aprovação).
+
+### 2. Listas e Laços de Repetição (FOR / WHILE)
+Manipulação de coleções e lógica de busca.
+- Filtragem, soma, inversão e contagem de elementos em arrays.
+- Fatiamento (*Slicing*), ordenação de placares e cópias de segurança na memória.
+
+### 3. Estética e Impressões
+- Formatação de saídas no console (ex: cupons fiscais e relatórios alinhados).
+
+### 4. Gamificação e RPG
+Aplicação da lógica em mecânicas de jogos.
+- Cálculos de dano base, acertos críticos e ganho de XP.
+- Filtros de bestiários, rolagem de dados (`random`) e verificação de nível para equipamentos.
+
+### 5 a 8. Física, Saúde e Matemática Avançada
+Fórmulas científicas transformadas em código.
+- Sequência de Fibonacci, Fatoriais, Progressões (PA e PG).
+- Teorema de Pitágoras, Bhaskara e Juros Compostos.
+- Movimento Retilíneo (MRU), Energia Cinética e Lei de Ohm.
+
+### 9. Strings, Linguagem e Criptografia
+Processamento de texto e segurança.
+- Algoritmos de Cifra de César (criptografia/descriptografia via ASCII).
+- Contagem de consoantes e análise morfológica simulada.
+
+### 10. Cálculos Percentuais e Estatística
+- Acréscimos de juros/buffs, cálculo de taxas e emissão de relatórios de aproveitamento.
 
 Cada função possui comentários explicando o que ela faz, os parâmetros que recebe e o que retorna. É um excelente material para os alunos importarem em seus próprios projetos e testarem os resultados!
 
